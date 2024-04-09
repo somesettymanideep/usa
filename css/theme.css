@@ -746,8 +746,8 @@ section {
 
 .recent-blog .recent-blog__item .content--right {
     margin-left: 60%;
-    padding: 70px 0;
-    padding-left: 70px;
+    padding: 60px;
+    /* padding-left: 70px; */
 }
 
 @media (max-width: 1199px) {
@@ -17502,3 +17502,7 @@ input[type=number] {
     transform-origin: 0 100%;
     display: inline-block;
 }
+.bg-style{
+    background-color: #f8f8f8!important;
+}
+
